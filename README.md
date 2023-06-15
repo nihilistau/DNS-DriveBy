@@ -12,8 +12,9 @@ DNS-Driveby is a $10 tracker that uses Open Wi-Fi networks for telemetry & recon
 ## Build Instructions
 Coming soon!  Reference the Hackster.io article for components.
 
-## Changelog v1.1
+## Changelog v1.2
 - MircoSD Card
 - JST Switch connector?
 - Route LiPo under board
 - SH1106 / SSD1306 Add-On
+- Jumper Pads
